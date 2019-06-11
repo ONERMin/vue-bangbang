@@ -9,5 +9,8 @@ export default {}
 </script>
 
 <style lang="stylus" scoped>
-    
+    m-index{
+        height: 50px;
+        
+    }
 </style>
